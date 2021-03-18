@@ -1,1 +1,2 @@
-# HotelBilling
+# HotelBilling using C Language
+
